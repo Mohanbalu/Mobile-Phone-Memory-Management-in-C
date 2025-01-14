@@ -43,7 +43,7 @@ To get started with the Mobile Phone Memory Management System, follow these simp
 ### 1. Clone the Repository
 First, clone this repository to your local machine using the following command in your terminal or command prompt:
 ```
-git clone https://github.com/your-username/mobile-phone-memory.git
+git clone https://github.com/Mohanbalu/Mobile-Phone-Memory-Management-in-C
 ```
 ### 2. Compile and Run
 Navigate to the project directory and compile the C++ code using a C++ compiler (e.g., g++):
@@ -105,13 +105,13 @@ int main() {
 }
 ```
 ## Contributing
-Thank you for considering contributing to the Mobile Phone Memory Management System! Contributions play a significant role in enhancing and expanding the capabilities of the project. Before contributing, please take a moment to review the guidelines below.
+Thank you for considering contributing to the Mobile Phone Memory Management System. Contributions play a significant role in enhancing and expanding the project's capabilities. Before contributing, please take a moment to review the guidelines below.
 
 ### Getting Started
 1. Fork the Repository: Click on the "Fork" button at the top right of this repository's page to create your copy.
 2. Clone your Fork: Clone the forked repository to your local machine:
 ```
-git clone https://github.com/your-username/mobile-phone-memory.git
+git clone https://github.com/Mohanbalu/Mobile-Phone-Memory-Management-in-C
 cd mobile-phone-memory
 ```
 ### Making Changes
